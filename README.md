@@ -1,4 +1,4 @@
-Full-Stack Secure & Accessible Task Management App
+## Full-Stack Secure & Accessible Task Management App:
 
 This project is a full-stack task management application built with React.js, Node.js, and Express.js, featuring JWT-based authentication for security. It focuses on responsive design, accessibility, and secure RESTful API development.
 
